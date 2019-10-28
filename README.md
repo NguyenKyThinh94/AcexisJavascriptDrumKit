@@ -1,1 +1,2 @@
 # AcexisJavascriptDrumKit
+# Training Project
